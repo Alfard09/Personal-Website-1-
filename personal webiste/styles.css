@@ -1,0 +1,26 @@
+.head{
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-weight: bold;
+}
+.nav-link{
+    font-weight: 700;
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #272525;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(6, 202, 38);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
